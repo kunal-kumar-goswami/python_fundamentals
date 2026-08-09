@@ -1,5 +1,9 @@
 # 🐍 Python Basics for Beginners
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kunal-kumar-goswami/py_problems/main/assets/banner.svg" alt="Python Basics for Beginners Banner" width="100%">
+</p>
+
 > My first GitHub repository — a collection of beginner-friendly Python programs created while learning Python and problem-solving.
 
 ## 📖 About This Repository
