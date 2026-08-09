@@ -82,7 +82,7 @@ This repository covers the fundamental concepts of Python, including:
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/kunal-kumar-goswami/python_fundamentals.git
 ```
 
 Navigate to any program folder and run the Python file:
