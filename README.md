@@ -121,27 +121,7 @@ Suggestions and improvements are always welcome.
 
 If you'd like to improve any program or add new beginner-friendly problems, feel free to fork the repository and create a pull request.
 
----
-
-# 👨‍💻 About Me
-
-I'm a student who enjoys learning new technologies and building projects while improving my programming skills.
-
-I'm currently exploring:
-
-- Python
-- Data Structures & Algorithms
-- Web Development
-- Open Source
-- AI & ML
-
-This repository marks the beginning of my software development journey.
-
----
-
-## 👨‍💻 Author
-
-KUNAL KUMAR GOSWAMI 
+--
 
 ## 📬 Contact
 
